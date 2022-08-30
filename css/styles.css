@@ -27,8 +27,7 @@ img {
 .wrapper {
   height: 5410px;
   max-width: 802px;
-  /* background-color: #f7f7f9; */
-  background-color: red;
+  background-color: #f7f7f9; 
   margin: 44px 24px 8px 24px;
 }
 
