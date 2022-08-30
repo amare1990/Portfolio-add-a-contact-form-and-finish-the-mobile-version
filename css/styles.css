@@ -328,6 +328,21 @@ li .social-network i {
   border-radius: 8px;
 }
 
+.btn {
+  height: 24px;
+  width: 100%;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  /* color: #396df2; */
+  background-color: #396df2;
+}
+
 .action .btn {
   height: 24px;
   width: 138px;
@@ -367,21 +382,6 @@ li .social-network i {
   background-color: #2230d2;
   border-radius: 8px;
   color: #fff;
-}
-
-.btn {
-  height: 24px;
-  width: 100%;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
-  /* color: #396df2; */
-  background-color: #396df2;
-
 }
 
 /* End of Styling anchor tags   */
@@ -551,6 +551,7 @@ li .social-network i {
   padding-top: 103px;
   margin-bottom: 12px;
 }
+
 .contact-me-text {
   height: 102px;
   max-width: 100%;
@@ -568,7 +569,6 @@ form {
   display: flex;
   flex-direction: column;
   margin: 0 24px 0 24px;
-  
 }
 
 .input-field {
@@ -581,7 +581,8 @@ form {
 
 .form1-input {
   padding: 15px 38px 15px 16px;
-  height: 18px;width: 273px;
+  height: 18px;
+  width: 273px;
   font-size: 17px;
   line-height: 20px;
   display: flex;
@@ -633,5 +634,5 @@ form {
   text-align: center;
   letter-spacing: 0.03em;
   color: #6070ff;
-  border: none
+  border: none;
 }
